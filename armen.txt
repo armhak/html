@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Armen!!!!
+Armen!
 =======
 Armen!
->>>>>>> 35b9cc38d08467668f82dbd3531c43cd5db1c07c
